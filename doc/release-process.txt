@@ -26,8 +26,8 @@
    wget 'http://miniupnp.free.fr/files/download.php?file=miniupnpc-1.6.tar.gz' -O miniupnpc-1.6.tar.gz
    wget 'http://www.openssl.org/source/openssl-1.0.1b.tar.gz'
    wget 'http://download.oracle.com/berkeley-db/db-4.8.30.NC.tar.gz'
-   wget 'http://zlib.net/zlib-1.2.6.tar.gz'
-   wget 'ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.5.9.tar.gz'
+   wget 'http://zlib.net/fossils/zlib-1.2.7.tar.gz'
+   wget --output-document libpng-1.5.12.tar.gz 'http://downloads.sourceforge.net/project/libpng/libpng15/older-releases/1.5.12/libpng-1.5.12.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Flibpng%2Ffiles%2Flibpng15%2Folder-releases%2F1.5.12%2F&ts=1440615034&use_mirror=netassist'
    wget 'http://fukuchi.org/works/qrencode/qrencode-3.2.0.tar.bz2'
    wget 'http://downloads.sourceforge.net/project/boost/boost/1.47.0/boost_1_47_0.tar.bz2'
    wget 'http://download.qt.io/archive/qt/4.7/qt-everywhere-opensource-src-4.7.4.tar.gz'
