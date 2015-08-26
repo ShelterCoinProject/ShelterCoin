@@ -1,0 +1,9 @@
+Building ShelterCoin
+
+See doc/readme-qt.rst for instructions on building ShelterCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShelterCoin.
+
+See doc/build-*.txt for instructions on building ShelterCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShelterCoin.
